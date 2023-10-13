@@ -16,7 +16,7 @@ This project is currently preloaded with these models:
 - [I3D Feature Extraction](https://github.com/v-iashin/video_features)
 - [TSU evaluation](https://github.com/dairui01/TSU_evaluation)
 - [Nvidia STEP: Spatio-Temporal Progressive Learning for Video Action Detection](https://github.com/NVlabs/STEP)
-- [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection]()
+- [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://github.com/dairui01/MS-TCT)
 - [Pytorch I3D models trained on Kinetics](https://github.com/piergiaj/pytorch-i3d)
 
 ## Installation for windows
